@@ -1,2 +1,2 @@
 # TensorFlow-Examples
-Random snippets based on tensorflow
+Random snippets/examples based on TensorFlow
